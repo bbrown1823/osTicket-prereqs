@@ -19,11 +19,26 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Within the VM (osticket-vm), download the osTicket-Installation-Files.zip and unzip it onto your desktop. The folder should be called “osTicket-Installation-Files”
+- Install / Enable IIS in Windows WITH CGI
+- From the “osTicket-Installation-Files” folder, install PHP Manager for IIS  
+- From the “osTicket-Installation-Files” folder install the Rewrite Module
+- From the “osTicket-Installation-Files” folder, unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into the “C:\PHP” folder
+- From the “osTicket-Installation-Files” folder, install VC_redist.x86.exe
+- From the “osTicket-Installation-Files” folder, install MySQL 5.5.62 (mysql-5.5.62-win32.msi)
+    Typical Setup ->
+    Launch Configuration Wizard (after install) ->
+    Standard Configuration ->
+    Username: root
+    Password: root
+- Install osTicket v1.15.8
+    From the “osTicket-Installation-Files” folder, unzip “osTicket-v1.15.8.zip” and copy the “upload” folder into “c:\inetpub\wwwroot”
+    Within “c:\inetpub\wwwroot”, Rename “upload” to “osTicket”
+- From the “osTicket-Installation-Files” folder, install HeidiSQL.
+- 
+
+
+
 
 <h2>Installation Steps</h2>
 
