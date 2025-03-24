@@ -21,11 +21,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Within the VM (osticket-vm), download the osTicket-Installation-Files.zip and unzip it onto your desktop. The folder should be called “osTicket-Installation-Files”
 - Install / Enable IIS in Windows WITH CGI
-- From the “osTicket-Installation-Files” folder, install PHP Manager for IIS  
-- From the “osTicket-Installation-Files” folder install the Rewrite Module
-- From the “osTicket-Installation-Files” folder, unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into the “C:\PHP” folder
-- From the “osTicket-Installation-Files” folder, install VC_redist.x86.exe
-- From the “osTicket-Installation-Files” folder, install MySQL 5.5.62 (mysql-5.5.62-win32.msi)
+- Install PHP Manager for IIS  
+- Install the Rewrite Module
+- Unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into the “C:\PHP” folder
+- Install VC_redist.x86.exe
+- Install MySQL 5.5.62 (mysql-5.5.62-win32.msi)
     Typical Setup ->
     Launch Configuration Wizard (after install) ->
     Standard Configuration ->
