@@ -32,9 +32,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
     Username: root
     Password: root
 - Install osTicket v1.15.8
-    From the “osTicket-Installation-Files” folder, unzip “osTicket-v1.15.8.zip” and copy the “upload” folder into “c:\inetpub\wwwroot”
+    Unzip “osTicket-v1.15.8.zip” and copy the “upload” folder into “c:\inetpub\wwwroot”
     Within “c:\inetpub\wwwroot”, Rename “upload” to “osTicket”
-- From the “osTicket-Installation-Files” folder, install HeidiSQL.
+- Install HeidiSQL
 - 
 
 
