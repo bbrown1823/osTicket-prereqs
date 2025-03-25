@@ -23,7 +23,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Install / Enable IIS in Windows WITH CGI
 - Install PHP Manager for IIS  
 - Install the Rewrite Module
-- Unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into the “C:\PHP” folder
 - Install VC_redist.x86.exe
 - Install MySQL 5.5.62 (mysql-5.5.62-win32.msi)
     Typical Setup ->
@@ -43,26 +42,48 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-![Screenshot 2025-03-23 174008](https://github.com/user-attachments/assets/6b2c4a80-6712-4980-a776-c78a6b53e24b)
-<img src="C:\Users\lil_d\OneDrive\Pictures\Screenshots\Screenshot 2025-03-23 174008.png/">
+<img src="https://github.com/user-attachments/assets/993bfea5-f7d0-46f4-b26c-af57234f1046"
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+Here is where I downloaded the PHP Manager for IIS in the osTicket files folder. This simplifies the management of PHP settings by:
+- Allowing for easier PHP configuration
+- Enabling FastCGI for PHP
+- Managing PHP Extensions
+- Improving Performance & Stability
+- Simplifing Troubleshooting
+
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/2b144e00-0007-4853-9783-ccaeb3b3a98c"
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+Here is where I had to installed the IIS Rewrite Module for osTicket because it helps with URL rewriting and redirection, ensuring that clean and user-friendly URLs work correctly. This is important because:
+- Friendly URLs Support
+- Eliminates index.php in URLs
+- Ensure Proper Redirection
+- Ehances Security
+- Required for .htaccess Equivalent
+- 
+
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/1a881620-58a5-48a3-9b97-a13e6b5284eb"
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+    
+Here is where I installed  (VC_redist.x86.exe.) for osTicket, PHP requires it to function properly
+- This required for PHP Execution
+- Is needed for PHP Extensions
+- Ensure Stability & Compatibility
+- PHP on Windows Requires the x86 version
+
 </p>
 <br />
