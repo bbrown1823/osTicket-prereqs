@@ -46,25 +46,49 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://github.com/user-attachments/assets/678eb6e0-9f65-4b2d-8b8b-49dce18ef174"
 
 In order to use the osTickting software correctly I had to first create a Virtual Machine to run the software on.
-- Here is where you see the new virtual machine is going to be named and created.
+- Here is where you go to create a new virtual machine.
 </p>
 <br />
   
 </p>
 <img src="https://github.com/user-attachments/assets/19a37a98-264a-4fdd-be46-35b62b10d1c7"
-   
+
+After you select create new virtual machine tab you will see this pop up.
+- First you must get a subscription if you don't already have one, that will allow you to use the software.
+- After you get the subscription you can then go ahead and selete the resource group you want to house the information for the program.
+  
+
+</p>
+<br />
 </p>
 <br />
 <img src="https://github.com/user-attachments/assets/78eb5a07-e11b-471f-9693-6bb71549f3a9"
+
+Next you scroll down to where you see (Virtual Machine Name) and you input the one you want to use.
+- Then you selete what region you want to use, for myself I choose to use US East US 2.
+- Make sure you use the same region for all of your Virtual Machines.
+  
+
   
 </p>
 <br />
 <img src="https://github.com/user-attachments/assets/95cc715a-ebb1-4d0f-a158-cd5af6b11fe9"
-    </p>
+
+ Continue to scroll down until you see the word Image, there you will select Windows 10 Pro for this assignment.
+    
+
+</p>
+<br />
 <img src="https://github.com/user-attachments/assets/82eb6261-1f04-4116-b301-ee35d367327b"
-    </p>
+
+As you scroll down more you will see the word Size, there you will select an option with 2 vcpus and at least 8 GIBs of memory.
+    
+</p>
 <img src="https://github.com/user-attachments/assets/5271ccd3-5611-40b9-90fd-9491c9af8b26"
-    </p>
+
+As you continue to scroll you will select a username and password that you know you will remember
+    
+</p>
 <img src="https://github.com/user-attachments/assets/fb48c695-dfb1-471c-83b8-13c261f22c42"
     </p>
 <img src="https://github.com/user-attachments/assets/2fb94f44-ba23-403c-a4a6-9b233171458d"
