@@ -108,12 +108,15 @@ On this page you do not have to select anything so you can click the next:networ
 <img src="https://github.com/user-attachments/assets/2d0621d5-1afa-40a3-97e5-fcd33e01fb9c"
 
 Here where is says virtual network you will create a new one and name it, I chose to name mine osTicket-Vm
- 
+- Next you will see a button that says Review and Create and you should click that button.
 
 </p>
 <br />
 <img src="https://github.com/user-attachments/assets/8f6871f9-945f-4ed2-96c2-55b040c44d29"
-    </p>
+
+
+    
+</p>
 <img src="https://github.com/user-attachments/assets/3987d823-e439-4d0d-b817-5abf93afdc16"
     </p>
 <img src="https://github.com/user-attachments/assets/fef62c2b-de09-4e3e-8427-111297ffd0e7"
