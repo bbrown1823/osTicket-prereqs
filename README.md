@@ -41,12 +41,24 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 <p>
+ </p>
+<p>   
 <img src="https://github.com/user-attachments/assets/678eb6e0-9f65-4b2d-8b8b-49dce18ef174"
-    </p>
+
+In order to use the osTickting software correctly I had to first create a Virtual Machine to run the software on.
+- Here is where you see the new virtual machine is going to be named and created.
+</p>
+<br />
+  
+</p>
 <img src="https://github.com/user-attachments/assets/19a37a98-264a-4fdd-be46-35b62b10d1c7"
-    </p>
+   
+</p>
+<br />
 <img src="https://github.com/user-attachments/assets/78eb5a07-e11b-471f-9693-6bb71549f3a9"
-    </p>
+  
+</p>
+<br />
 <img src="https://github.com/user-attachments/assets/95cc715a-ebb1-4d0f-a158-cd5af6b11fe9"
     </p>
 <img src="https://github.com/user-attachments/assets/82eb6261-1f04-4116-b301-ee35d367327b"
