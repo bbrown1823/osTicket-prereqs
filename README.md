@@ -84,15 +84,25 @@ Next you scroll down to where you see (Virtual Machine Name) and you input the o
 As you scroll down more you will see the word Size, there you will select an option with 2 vcpus and at least 8 GIBs of memory.
     
 </p>
+<br />
 <img src="https://github.com/user-attachments/assets/5271ccd3-5611-40b9-90fd-9491c9af8b26"
 
-As you continue to scroll you will select a username and password that you know you will remember
+As you continue to scroll you will select a username and password that you know you will remember and enter them.
     
 </p>
+<br />
 <img src="https://github.com/user-attachments/assets/fb48c695-dfb1-471c-83b8-13c261f22c42"
-    </p>
+
+At the end you will see something that says Licensing and you will make sure to check that box before going to the next step.
+
+<br />
+</p>
 <img src="https://github.com/user-attachments/assets/2fb94f44-ba23-403c-a4a6-9b233171458d"
-    </p>
+
+    
+
+</p>
+<br />
 <img src="https://github.com/user-attachments/assets/2d0621d5-1afa-40a3-97e5-fcd33e01fb9c"
     </p>
 <img src="https://github.com/user-attachments/assets/8f6871f9-945f-4ed2-96c2-55b040c44d29"
