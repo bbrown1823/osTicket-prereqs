@@ -94,17 +94,24 @@ As you continue to scroll you will select a username and password that you know 
 <img src="https://github.com/user-attachments/assets/fb48c695-dfb1-471c-83b8-13c261f22c42"
 
 At the end you will see something that says Licensing and you will make sure to check that box before going to the next step.
+- Next you will see a button that says next:disk and you click on it.
 
 <br />
 </p>
 <img src="https://github.com/user-attachments/assets/2fb94f44-ba23-403c-a4a6-9b233171458d"
 
+On this page you do not have to select anything so you can click the next:networking button and continue.
     
 
 </p>
 <br />
 <img src="https://github.com/user-attachments/assets/2d0621d5-1afa-40a3-97e5-fcd33e01fb9c"
-    </p>
+
+Here where is says virtual network you will create a new one and name it, I chose to name mine osTicket-Vm
+ 
+
+</p>
+<br />
 <img src="https://github.com/user-attachments/assets/8f6871f9-945f-4ed2-96c2-55b040c44d29"
     </p>
 <img src="https://github.com/user-attachments/assets/3987d823-e439-4d0d-b817-5abf93afdc16"
