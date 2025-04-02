@@ -114,11 +114,16 @@ Here where is says virtual network you will create a new one and name it, I chos
 <br />
 <img src="https://github.com/user-attachments/assets/8f6871f9-945f-4ed2-96c2-55b040c44d29"
 
+After the validation has passed you then select create, after which the system will start to add needed software to you Virtual Machine.
 
     
 </p>
 <img src="https://github.com/user-attachments/assets/3987d823-e439-4d0d-b817-5abf93afdc16"
-    </p>
+
+Here you can see that the deployment is complete and you are ready to use your virtual machines.    
+
+</p>
+<br />
 <img src="https://github.com/user-attachments/assets/fef62c2b-de09-4e3e-8427-111297ffd0e7"
     </p>
 <img src="https://github.com/user-attachments/assets/7679708b-63b6-4a8c-87d0-565731cda7a6"
