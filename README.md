@@ -125,15 +125,34 @@ Here you can see that the deployment is complete and you are ready to use your v
 </p>
 <br />
 <img src="https://github.com/user-attachments/assets/fef62c2b-de09-4e3e-8427-111297ffd0e7"
-    </p>
+
+Here you can see that the virtual machine is working and ready to use.
+- You can see where the I highlighted the Public IP Address you will need to log on to the remoted desktop.
+
+</p>
+<br />
 <img src="https://github.com/user-attachments/assets/7679708b-63b6-4a8c-87d0-565731cda7a6"
-    </p>
+
+Here you can see where to paste the Public Ip Address needed to log in to the virtual machine.  
+
+</p>
+<br />
 <img src="https://github.com/user-attachments/assets/2bef8145-6d74-4219-8d6e-fbb6ad99b573"
-    </p>
+
+After you have logged in with the corrected IP Address are then able to select. If you do not see yours you can click the (use a different account) tab to log you credentials.
+
+</p>
+<br />
 <img src="https://github.com/user-attachments/assets/747ca5d2-efc4-4474-bc1e-90367d7282ef"
-    </p>
+
+Here you will use the Username and Password you chose earlier to login to the remote desktop.  
+
+</p>
+<br />
 <img src="https://github.com/user-attachments/assets/e4f15331-1797-42a9-83f0-2a42d16b915b"
 
+You may see a message about allowing the connection to continue and you just select yes.
+- And that will be the end of the setup.
 
     
 
