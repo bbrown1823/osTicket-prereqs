@@ -82,4 +82,19 @@ Here is where I installed  (VC_redist.x86.exe.) for osTicket, PHP requires it to
 - PHP on Windows Requires the x86 version
 
 </p>
-<br />
+<p>
+<img src="https://github.com/user-attachments/assets/07410691-b7ed-490b-b0eb-4ac7a778e70b"
+
+
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/d00c9fcf-d423-4e38-aaa0-b493b3eba2c3"
+
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/dd8f9de1-7406-40c0-98e6-d9b7a2bb8437"
+
+</p>
+<p></p>
+<img src="https://github.com/user-attachments/assets/169de81f-c94d-4c2a-b820-3c09948a5310"
+
