@@ -90,10 +90,15 @@ Here is where you can see that MySQL Sever has been installed, all was need was 
 <p>
 <img src="https://github.com/user-attachments/assets/d00c9fcf-d423-4e38-aaa0-b493b3eba2c3"
 
+osTicket is open and you can see all the prerequisites that have been installed
+- All the required ones are install but there are a few things we still need have.
+- You can see these are some of the recommended and have an x next to them.
+
 </p>
 <p>
 <img src="https://github.com/user-attachments/assets/dd8f9de1-7406-40c0-98e6-d9b7a2bb8437"
 
+Here you can see that I am about to start the process needed to download the HeidiSQL software need to run the osTicket.
 </p>
 <p></p>
 <img src="https://github.com/user-attachments/assets/169de81f-c94d-4c2a-b820-3c09948a5310"
