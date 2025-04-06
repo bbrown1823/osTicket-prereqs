@@ -85,7 +85,7 @@ Here is where I installed  (VC_redist.x86.exe.) for osTicket, PHP requires it to
 <p>
 <img src="https://github.com/user-attachments/assets/07410691-b7ed-490b-b0eb-4ac7a778e70b"
 
-
+Here is where you can see that MySQL Sever has been installed, all was need was to click next of each setup page until you I got to the finished page.
 </p>
 <p>
 <img src="https://github.com/user-attachments/assets/d00c9fcf-d423-4e38-aaa0-b493b3eba2c3"
